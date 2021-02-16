@@ -1,0 +1,29 @@
+.speech{
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: black;
+}
+
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: lightcyan;
+    color: black;
+
+}
+.stage-direction:hover{
+    background-color: brown;
+    color: darkgreen;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.JULIA{
+    color: darkgreen;
+}
+.LUCETTA{
+    color: darkorange;
+}
+
