@@ -19,11 +19,29 @@ color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
+    
+}
+.name:hover{
+    text-shadow: 2px 2px 5px red;
+    color: orange;
+    border: 5px solid black;
 }
 .JULIA{
     color: darkgreen;
 }
 .LUCETTA{
     color: darkorange;
+}
+
+table{
+    margin-left: 5px;
+}
+table,th,td{
+    padding: 10px;
+    border:1px solid black;
+    border-collapse: collapse ;
+}
+tr:nth-child(even){
+    background-color: lightskyblue;
 }
 
